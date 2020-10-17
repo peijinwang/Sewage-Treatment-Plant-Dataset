@@ -1,6 +1,6 @@
 <annotation>
 	<folder>folder</folder>
-	<filename>1.tif</filename>
+	<filename>120.tif</filename>
 	<source>
 		<database>STP</database>
 		<annotation>IECAS</annotation>
@@ -23,10 +23,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>434</xmin>
-			<ymin>422</ymin>
-			<xmax>798</xmax>
-			<ymax>697</ymax>
+			<xmin>476</xmin>
+			<ymin>476</ymin>
+			<xmax>627</xmax>
+			<ymax>661</ymax>
 		</bndbox>
 	</object>
 </annotation>
